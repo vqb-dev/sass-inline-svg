@@ -22,8 +22,8 @@ module.exports = inliner;
 /**
  * The SVG inliner function
  * This is a factory that expects a base path abd returns the actual function
- * @param base
- * @param opts {optimize: true/false}
+ * @param {string} base
+ * @param {optimize: true/false} opts
  * @returns {Function}
  */
 function inliner (base, opts) {
