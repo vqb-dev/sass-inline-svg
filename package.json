@@ -1,6 +1,6 @@
 {
   "name": "@vqb/sass-inline-svg",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "a sass function that inlines svg files",
   "main": "index.js",
   "scripts": {
